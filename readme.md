@@ -2,7 +2,7 @@
 
 - Screenshots:
 
-<img src="https://github.com/Ankan002/cocktail-world/blob/main/screenshots/Home.jpeg" width="60px" >
+<img src="https://github.com/Ankan002/cocktail-world/blob/main/screenshots/Home.jpeg" width="200px" >
 
 [](./screenshots/Product.jpeg "Product Page")
 
