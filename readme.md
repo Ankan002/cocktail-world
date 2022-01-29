@@ -2,7 +2,7 @@
 
 - Screenshots:
 
-[](./screenshots/Home.jpeg "HOME Page")
+[](https://github.com/Ankan002/cocktail-world/blob/main/screenshots/Home.jpeg)
 
 [](./screenshots/Product.jpeg "Product Page")
 
