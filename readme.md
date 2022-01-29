@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Ankan002/cocktail-world/blob/main/screenshots/Home.jpeg" width="200px" >
 
-[](./screenshots/Product.jpeg "Product Page")
+<img src="https://github.com/Ankan002/cocktail-world/blob/main/screenshots/Product.jpeg" width="200px" >
 
 ## Instructions to Download
 
